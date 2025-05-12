@@ -1,0 +1,569 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About the Author",
+    "section": "",
+    "text": "I’m currently a graduate student in the Geoinformatics Master’s Program at Hunter College, where I’ve been building skills in GIS and coding. For this project, I wanted to combine those skills with something I’m genuinely passionate about: skiing. As an avid skier who loves exploring new mountains across the Northeast, I created Ski The NorthEast as a way to bring together geographic insight and useful planning tools for fellow skiers and snowboarders.\nOne question I often hear — and ask myself — is: Where should I go for my next weekend ski trip? Should I visit a new mountain? What’s the surrounding town like? To help answer those questions, this project merges information about medium to large ski mountains in New York, Vermont, and New Hampshire with demographic data from the U.S. Census. By integrating stats like population, age, and income for the counties near each resort, Ski The NorthEast offers a broader picture of not just where to ski, but what kind of experience to expect off the slopes."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The slopes are calling…",
+    "section": "",
+    "text": "Take your passion for skiing and Ski The NorthEast. From the Adirondack Mountains of New York, to the White Mountains of New Hampshire. New York, Vermont and New Hampshire have a huge variety of terrain spanning all difficulties.\nThis project merges information about medium to large ski mountains in New York, Vermont, and New Hampshire with demographic data from the U.S. Census. By integrating stats like population, age, and income for the counties near each resort, Ski The NorthEast offers a broader picture of not just where to ski, but what kind of experience to expect off the slopes."
+  },
+  {
+    "objectID": "SkiTheNE_Map.html",
+    "href": "SkiTheNE_Map.html",
+    "title": "Ski The NorthEast Map",
+    "section": "",
+    "text": "About this Map ::: callout-tip ## Tip\nIf you would like to see more information on each pass. Scroll past the map to learn more. :::"
+  },
+  {
+    "objectID": "MultiMTPass_Map.html",
+    "href": "MultiMTPass_Map.html",
+    "title": "Multi-Mountain Passes Map",
+    "section": "",
+    "text": "This map is designed for skiers and snowboarders who either already have a multi-resort pass or are deciding which one to purchase. Whether you’re planning your next trip using a pass you’ve already bought or comparing pass options based on mountain access, this map highlights all medium to large ski areas in New York, Vermont, and New Hampshire that are part of the Ikon, Epic, or Indy Pass networks as of 2025."
+  },
+  {
+    "objectID": "sources.html",
+    "href": "sources.html",
+    "title": "Sources",
+    "section": "",
+    "text": "Mountain Data Set:\nPoint location data, including latitude and longitude, were extracted from Google Maps and formatted for compatibility with ArcGIS Online, where they were uploaded for visualization and integration with other spatial datasets. Additional point/mountain data was scraped from Ski Central Website as well as independent mountain websites.\nCounty Data Set:\nPolygon data was downloaded from the U.S. Census Bureau using TIGER/Line Shapefiles as well as the U.S. Census Bureau, 2019–2023 American Community Survey 5-Year Estimates for population, age, and income."
+  },
+  {
+    "objectID": "MultiMTPass_Map.html#this-map-is-designed-for-skiers-and-snowboarders-who-either-already-have-a-multi-resort-pass-or-are-deciding-which-one-to-purchase.-whether-youre-planning-your-next-trip-using-a-pass-youve-already-bought-or-comparing-pass-options-based-on-mountain-access-this-map-highlights-all-medium-to-large-ski-areas-in-new-york-vermont-and-new-hampshire-that-are-part-of-the-ikon-epic-or-indy-pass-networks-as-of-2025.",
+    "href": "MultiMTPass_Map.html#this-map-is-designed-for-skiers-and-snowboarders-who-either-already-have-a-multi-resort-pass-or-are-deciding-which-one-to-purchase.-whether-youre-planning-your-next-trip-using-a-pass-youve-already-bought-or-comparing-pass-options-based-on-mountain-access-this-map-highlights-all-medium-to-large-ski-areas-in-new-york-vermont-and-new-hampshire-that-are-part-of-the-ikon-epic-or-indy-pass-networks-as-of-2025.",
+    "title": "Multi-Mountain Passes Map",
+    "section": "",
+    "text": "If you would like to see more information on each pass. Scroll past the map to learn more. .\n\n\n\n\n\n\n#Ikon Pass Link: Check Out The Ikon Website\n#Indy Pass Link: Check Out The Indy Website\n#Epic Pass Link: Check Out The Epic Website"
+  },
+  {
+    "objectID": "MultiMTPass_Map.html#ikon-pass",
+    "href": "MultiMTPass_Map.html#ikon-pass",
+    "title": "Multi-Mountain Passes Map",
+    "section": "Ikon Pass",
+    "text": "Ikon Pass\nVisit The Website\nIkon Pass: Provides unlimited access to 18 destinations and up to 7 days each at 41 additional mountains.\n\n\n\nAge\nPrice\n\n\n\n\nAdults (23+)\n$1,329\n\n\nYoung Adults (13-22)\n$989\n\n\nKids (5-12)\n$369\n\n\nKids (4 & under)\n$149\n\n\nCollege Students, Nurses, Military\n$969\n\n\n\nIkon Base Pass: Offers unlimited skiing at 14 destinations and up to 5 days each at 39 additional mountains.\n\n\n\nAge\nPrice\n\n\n\n\nAdults (23+)\n$909\n\n\nYoung Adults (13-22)\n$659\n\n\nKids (5-12)\n$299\n\n\nKids (4 & under)\n$99\n\n\nCollege Students, Nurses, Military\n$649\n\n\n\nList of Ikon Mountains in NY, VT, and NH\n\nLoon Mountain\nKillington\nPico Mountain\nStratton Mountain\nSugarbush Mountain\n\n**Note: 2-4 day pass options are also available for purchase."
+  },
+  {
+    "objectID": "MultiMTPass_Map.html#indy-pass",
+    "href": "MultiMTPass_Map.html#indy-pass",
+    "title": "Multi-Mountain Passes Map",
+    "section": "Indy Pass",
+    "text": "Indy Pass\nVisit The Website\nIndy Base Pass: Two days at each of the 250+ mountains included, with a 25% discount available for a third day. Black out dates apply.\n\n\n\nAge\nPrice\n\n\n\n\nAdults\n$299\n\n\nKids\n$179\n\n\n\nIndy+ Pass: Two days at each of the 250+ mountains included, with a 25% discount available for a third day. No Black out dates.\n\n\n\nAge\nPrice\n\n\n\n\nAdults\n$349\n\n\nKids\n$199\n\n\n\n**Note: Pricing is subject to change based on when the pass is purchased.\nList of Indy Mountains in NY, VT, and NH\n\nBlack Mountain\nBolton Valley\nBurke Mountain\nCannon Mountain\nCatamount Mountain\nDartmouth Skiway\nGreek Peak Mountain Resort\nHickory Ski Center\nHunt Hollow Ski Club\nJay Peak\nMagic Mountain\nMiddlebury Snowbowl\nPats Peak\nRagged Mountain\nSaskadena Six Ski Area\nSwain Mountain\nTitus Mountain\nWaterville Valley"
+  },
+  {
+    "objectID": "MultiMTPass_Map.html#epic-pass",
+    "href": "MultiMTPass_Map.html#epic-pass",
+    "title": "Multi-Mountain Passes Map",
+    "section": "Epic Pass",
+    "text": "Epic Pass\nVisit The Website\nEpic Pass: Unlimited access to all partner mountains and no black out dates.\n\n\n\nAge\nPrice\n\n\n\n\nAdults (13+)\n$1,051\n\n\nKids (5-12)\n$537\n\n\n\nEpic Local Pass: Access to select resorts and some black out dates apply.\n\n\n\nAge\nPrice\n\n\n\n\nAdults (19+)\n$783\n\n\nTeens (13-18)\n$633\n\n\nKids (5-13)\n$407\n\n\n\n**Note: 1-7 day pass options are also available for purchase.\nList of Epic Mountains in NY, VT, and NH\n\nAttitash Mountain\nCrotched Mountain\nHunter Mountain\nMount Snow\nMount Sunapee\nOkemo Mountain\nStowe\nWildcat Mountain"
+  },
+  {
+    "objectID": "mountainlist.html",
+    "href": "mountainlist.html",
+    "title": "Mountain List & Trail Maps",
+    "section": "",
+    "text": "This page provides a comprehensive directory of medium to large ski mountains in New York, Vermont, and New Hampshire. For each mountain, you’ll find links to its official website, current snow report, and trail map. Use the list on the left to browse by state or select a specific mountain."
+  },
+  {
+    "objectID": "mountainlist.html#mountain-1",
+    "href": "mountainlist.html#mountain-1",
+    "title": "Mountain List",
+    "section": "Mountain 1",
+    "text": "Mountain 1\nVisit The Website\nTrail Map:"
+  },
+  {
+    "objectID": "mountainlist.html#mountain-2",
+    "href": "mountainlist.html#mountain-2",
+    "title": "Mountain List",
+    "section": "Mountain 2",
+    "text": "Mountain 2\nVisit The Website\nTrail Map:\nList of Ikon Mountains in NY, VT, and NH\n\nStratton Mountain\nSugarbush Mountain\nKillington\nPico Mountain\nLoon\n\nList of Indy Mountains in NY, VT, and NH\n\nBlack Mountain\nBolton Valley\nBurke Mountain\nCannon Mountain\nDartmouth Skiway\nGreek Peak Mountain Resort\nHickory Ski Center\nHunt Hollow Ski Club\nJay Peak Resort\nMagic Mountain\nMiddlebury Snowbowl\nPats Peak\nRagged Mountain\nSaskadena Six Ski Area\nSwain Mountain\nTitus Mountain\nWaterville Valley\n\nList of Epic Mountains in NY, VT, and NH\n\nHunter Mountain\nStowe Mountain\nOkemo Mountain\nMount Snow\nWildcat Mountain\nAttitash Mountain\nMount Sunapee\nCrotched Mountain"
+  },
+  {
+    "objectID": "mountainlist.html#belleayre-mountain",
+    "href": "mountainlist.html#belleayre-mountain",
+    "title": "Mountain List & Trail Maps",
+    "section": "Belleayre Mountain",
+    "text": "Belleayre Mountain\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#bristol-mountain",
+    "href": "mountainlist.html#bristol-mountain",
+    "title": "Mountain List & Trail Maps",
+    "section": "Bristol Mountain",
+    "text": "Bristol Mountain\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#catamount-ski-area",
+    "href": "mountainlist.html#catamount-ski-area",
+    "title": "Mountain List & Trail Maps",
+    "section": "Catamount Ski Area",
+    "text": "Catamount Ski Area\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#gore-mountain",
+    "href": "mountainlist.html#gore-mountain",
+    "title": "Mountain List & Trail Maps",
+    "section": "Gore Mountain",
+    "text": "Gore Mountain\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#greek-peak",
+    "href": "mountainlist.html#greek-peak",
+    "title": "Mountain List & Trail Maps",
+    "section": "Greek Peak",
+    "text": "Greek Peak\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#hickory-ski-center",
+    "href": "mountainlist.html#hickory-ski-center",
+    "title": "Mountain List & Trail Maps",
+    "section": "Hickory Ski Center",
+    "text": "Hickory Ski Center\nVisit Mountain Website\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#holiday-valley",
+    "href": "mountainlist.html#holiday-valley",
+    "title": "Mountain List & Trail Maps",
+    "section": "Holiday Valley",
+    "text": "Holiday Valley\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#holimont",
+    "href": "mountainlist.html#holimont",
+    "title": "Mountain List & Trail Maps",
+    "section": "HoliMont",
+    "text": "HoliMont\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#hunt-hollow-ski-club",
+    "href": "mountainlist.html#hunt-hollow-ski-club",
+    "title": "Mountain List & Trail Maps",
+    "section": "Hunt Hollow Ski Club",
+    "text": "Hunt Hollow Ski Club\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#hunter-mountain",
+    "href": "mountainlist.html#hunter-mountain",
+    "title": "Mountain List & Trail Maps",
+    "section": "Hunter Mountain",
+    "text": "Hunter Mountain\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#kissing-bridge",
+    "href": "mountainlist.html#kissing-bridge",
+    "title": "Mountain List & Trail Maps",
+    "section": "Kissing Bridge",
+    "text": "Kissing Bridge\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#labrador-mountain",
+    "href": "mountainlist.html#labrador-mountain",
+    "title": "Mountain List & Trail Maps",
+    "section": "Labrador Mountain",
+    "text": "Labrador Mountain\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#mccauley-mountain",
+    "href": "mountainlist.html#mccauley-mountain",
+    "title": "Mountain List & Trail Maps",
+    "section": "McCauley Mountain",
+    "text": "McCauley Mountain\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#oak-mountain-ski-center",
+    "href": "mountainlist.html#oak-mountain-ski-center",
+    "title": "Mountain List & Trail Maps",
+    "section": "Oak Mountain Ski Center",
+    "text": "Oak Mountain Ski Center\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#plattekill-mountain",
+    "href": "mountainlist.html#plattekill-mountain",
+    "title": "Mountain List & Trail Maps",
+    "section": "Plattekill Mountain",
+    "text": "Plattekill Mountain\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#royal-mountain-ski-area",
+    "href": "mountainlist.html#royal-mountain-ski-area",
+    "title": "Mountain List & Trail Maps",
+    "section": "Royal Mountain Ski Area",
+    "text": "Royal Mountain Ski Area\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#ski-big-tupper",
+    "href": "mountainlist.html#ski-big-tupper",
+    "title": "Mountain List & Trail Maps",
+    "section": "Ski Big Tupper",
+    "text": "Ski Big Tupper\nVisit Mountain Website\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#song-mountain",
+    "href": "mountainlist.html#song-mountain",
+    "title": "Mountain List & Trail Maps",
+    "section": "Song Mountain",
+    "text": "Song Mountain\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#swain-mountain",
+    "href": "mountainlist.html#swain-mountain",
+    "title": "Mountain List & Trail Maps",
+    "section": "Swain Mountain",
+    "text": "Swain Mountain\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#thunder-ridge",
+    "href": "mountainlist.html#thunder-ridge",
+    "title": "Mountain List & Trail Maps",
+    "section": "Thunder Ridge",
+    "text": "Thunder Ridge\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#titus-mountain",
+    "href": "mountainlist.html#titus-mountain",
+    "title": "Mountain List & Trail Maps",
+    "section": "Titus Mountain",
+    "text": "Titus Mountain\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#whiteface-mountain",
+    "href": "mountainlist.html#whiteface-mountain",
+    "title": "Mountain List & Trail Maps",
+    "section": "Whiteface Mountain",
+    "text": "Whiteface Mountain\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#west-mountain",
+    "href": "mountainlist.html#west-mountain",
+    "title": "Mountain List & Trail Maps",
+    "section": "West Mountain",
+    "text": "West Mountain\nVisit Mountain Website\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#windham-mountain",
+    "href": "mountainlist.html#windham-mountain",
+    "title": "Mountain List & Trail Maps",
+    "section": "Windham Mountain",
+    "text": "Windham Mountain\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#bolton-valley",
+    "href": "mountainlist.html#bolton-valley",
+    "title": "Mountain List & Trail Maps",
+    "section": "Bolton Valley",
+    "text": "Bolton Valley\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#bromley-mountain",
+    "href": "mountainlist.html#bromley-mountain",
+    "title": "Mountain List & Trail Maps",
+    "section": "Bromley Mountain",
+    "text": "Bromley Mountain\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#burke-mountain",
+    "href": "mountainlist.html#burke-mountain",
+    "title": "Mountain List & Trail Maps",
+    "section": "Burke Mountain",
+    "text": "Burke Mountain\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#jay-peak",
+    "href": "mountainlist.html#jay-peak",
+    "title": "Mountain List & Trail Maps",
+    "section": "Jay Peak",
+    "text": "Jay Peak\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#killington",
+    "href": "mountainlist.html#killington",
+    "title": "Mountain List & Trail Maps",
+    "section": "Killington",
+    "text": "Killington\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#mad-river-glen-ski-area",
+    "href": "mountainlist.html#mad-river-glen-ski-area",
+    "title": "Mountain List & Trail Maps",
+    "section": "Mad River Glen Ski Area",
+    "text": "Mad River Glen Ski Area\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#magic-mountain",
+    "href": "mountainlist.html#magic-mountain",
+    "title": "Mountain List & Trail Maps",
+    "section": "Magic Mountain",
+    "text": "Magic Mountain\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#middlebury-college-snow-bowl",
+    "href": "mountainlist.html#middlebury-college-snow-bowl",
+    "title": "Mountain List & Trail Maps",
+    "section": "Middlebury College Snow Bowl",
+    "text": "Middlebury College Snow Bowl\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#mount-snow",
+    "href": "mountainlist.html#mount-snow",
+    "title": "Mountain List & Trail Maps",
+    "section": "Mount Snow",
+    "text": "Mount Snow\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#okemo-mountain",
+    "href": "mountainlist.html#okemo-mountain",
+    "title": "Mountain List & Trail Maps",
+    "section": "Okemo Mountain",
+    "text": "Okemo Mountain\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#pico-mountain",
+    "href": "mountainlist.html#pico-mountain",
+    "title": "Mountain List & Trail Maps",
+    "section": "Pico Mountain",
+    "text": "Pico Mountain\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#saskadena-six",
+    "href": "mountainlist.html#saskadena-six",
+    "title": "Mountain List & Trail Maps",
+    "section": "Saskadena Six",
+    "text": "Saskadena Six\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#smugglers-notch",
+    "href": "mountainlist.html#smugglers-notch",
+    "title": "Mountain List & Trail Maps",
+    "section": "Smugglers Notch",
+    "text": "Smugglers Notch\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#stowe",
+    "href": "mountainlist.html#stowe",
+    "title": "Mountain List & Trail Maps",
+    "section": "Stowe",
+    "text": "Stowe\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#stratton-mountain",
+    "href": "mountainlist.html#stratton-mountain",
+    "title": "Mountain List & Trail Maps",
+    "section": "Stratton Mountain",
+    "text": "Stratton Mountain\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#sugarbush-mountain",
+    "href": "mountainlist.html#sugarbush-mountain",
+    "title": "Mountain List & Trail Maps",
+    "section": "Sugarbush Mountain",
+    "text": "Sugarbush Mountain\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#the-quenchee-club",
+    "href": "mountainlist.html#the-quenchee-club",
+    "title": "Mountain List & Trail Maps",
+    "section": "The Quenchee Club",
+    "text": "The Quenchee Club\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#attitash",
+    "href": "mountainlist.html#attitash",
+    "title": "Mountain List & Trail Maps",
+    "section": "Attitash",
+    "text": "Attitash\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#black-mountain",
+    "href": "mountainlist.html#black-mountain",
+    "title": "Mountain List & Trail Maps",
+    "section": "Black Mountain",
+    "text": "Black Mountain\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#bretton-woods",
+    "href": "mountainlist.html#bretton-woods",
+    "title": "Mountain List & Trail Maps",
+    "section": "Bretton Woods",
+    "text": "Bretton Woods\nVisit Mountain Website\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#cannon-mountain",
+    "href": "mountainlist.html#cannon-mountain",
+    "title": "Mountain List & Trail Maps",
+    "section": "Cannon Mountain",
+    "text": "Cannon Mountain\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#cranmore",
+    "href": "mountainlist.html#cranmore",
+    "title": "Mountain List & Trail Maps",
+    "section": "Cranmore",
+    "text": "Cranmore\nVisit Mountain Website\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#crotched-mountain",
+    "href": "mountainlist.html#crotched-mountain",
+    "title": "Mountain List & Trail Maps",
+    "section": "Crotched Mountain",
+    "text": "Crotched Mountain\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#dartmouth-skiway",
+    "href": "mountainlist.html#dartmouth-skiway",
+    "title": "Mountain List & Trail Maps",
+    "section": "Dartmouth Skiway",
+    "text": "Dartmouth Skiway\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#gunstock",
+    "href": "mountainlist.html#gunstock",
+    "title": "Mountain List & Trail Maps",
+    "section": "Gunstock",
+    "text": "Gunstock\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#loon-mountain",
+    "href": "mountainlist.html#loon-mountain",
+    "title": "Mountain List & Trail Maps",
+    "section": "Loon Mountain",
+    "text": "Loon Mountain\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#mount-sunapee",
+    "href": "mountainlist.html#mount-sunapee",
+    "title": "Mountain List & Trail Maps",
+    "section": "Mount Sunapee",
+    "text": "Mount Sunapee\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#pats-peak",
+    "href": "mountainlist.html#pats-peak",
+    "title": "Mountain List & Trail Maps",
+    "section": "Pats Peak",
+    "text": "Pats Peak\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#ragged-mountain",
+    "href": "mountainlist.html#ragged-mountain",
+    "title": "Mountain List & Trail Maps",
+    "section": "Ragged Mountain",
+    "text": "Ragged Mountain\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#waterville-valley",
+    "href": "mountainlist.html#waterville-valley",
+    "title": "Mountain List & Trail Maps",
+    "section": "Waterville Valley",
+    "text": "Waterville Valley\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#whaleback-ski-area",
+    "href": "mountainlist.html#whaleback-ski-area",
+    "title": "Mountain List & Trail Maps",
+    "section": "Whaleback Ski Area",
+    "text": "Whaleback Ski Area\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "mountainlist.html#wildcat-mountain",
+    "href": "mountainlist.html#wildcat-mountain",
+    "title": "Mountain List & Trail Maps",
+    "section": "Wildcat Mountain",
+    "text": "Wildcat Mountain\nVisit Mountain Website Check the Snow Report\nTrail Map: click map to view full screen"
+  },
+  {
+    "objectID": "TopRankMT.html",
+    "href": "TopRankMT.html",
+    "title": "Top Ranked Mountains",
+    "section": "",
+    "text": "Rank\n\n\nVertical Height\n\n\n\n\n\n\n1 - Whiteface Mountain\n\n\n3,430 feet\n\n\n\n\n2 - Killington\n\n\n3,050 feet\n\n\n\n\n3 - Smugglers Notch\n\n\n2,610 feet\n\n\n\n\n4 - Sugarbush Mountain\n\n\n2,600 feet\n\n\n\n\n5 - Gore Mountain\n\n\n2,537 feet"
+  },
+  {
+    "objectID": "TopRankMT.html#tallest-mountains",
+    "href": "TopRankMT.html#tallest-mountains",
+    "title": "Top Ranked Mountains",
+    "section": "",
+    "text": "Rank\nVertical Height\n\n\n\n\n1 - Whiteface Mountain\n3,430 feet\n\n\n2 - Killington\n3,050 feet\n\n\n3 - Smugglers Notch\n2,610 feet\n\n\n4 - Sugarbush Mountain\n2,60 feet\n\n\n5 - Gore Mountain\n2,537 feet"
+  },
+  {
+    "objectID": "TopRankMT.html#steepest-slopes",
+    "href": "TopRankMT.html#steepest-slopes",
+    "title": "Top Ranked Mountains",
+    "section": "",
+    "text": "Rank\n\n\nVertical Height\n\n\n\n\n\n\n1 - Whiteface Mountain\n\n\n3,430 feet\n\n\n\n\n2 - Killington\n\n\n3,050 feet\n\n\n\n\n3 - Smugglers Notch\n\n\n2,610 feet\n\n\n\n\n4 - Sugarbush Mountain\n\n\n2,600 feet\n\n\n\n\n5 - Gore Mountain\n\n\n2,537 feet"
+  },
+  {
+    "objectID": "TopRankMT.html#best-beginner-mountains",
+    "href": "TopRankMT.html#best-beginner-mountains",
+    "title": "Top Ranked Mountains",
+    "section": "Best Beginner Mountains",
+    "text": "Best Beginner Mountains\n\n\n\n\nRank\n\n\nPercent Green Trails - Easy\n\n\n\n\n\n\n1 - Pats Peak\n\n\n50%\n\n\n\n\n2 - Oak Mountain Ski Center\n\n\n47%\n\n\n\n\n3 - Thunder Ridge\n\n\n45%\n\n\n\n\n4 - Stratton Mountain\n\n\n41%\n\n\n\n\n5 - Greek Peak\n\n\n39%"
+  },
+  {
+    "objectID": "TopRankMT.html#best-mountains-for-the-casual-weekend-skier",
+    "href": "TopRankMT.html#best-mountains-for-the-casual-weekend-skier",
+    "title": "Top Ranked Mountains",
+    "section": "Best Mountains for the Casual Weekend Skier",
+    "text": "Best Mountains for the Casual Weekend Skier\n\n\n\n\nRank\n\n\nPercent Blue Trails - Intermediate\n\n\n\n\n\n\n1 - Mount Snow\n\n\n70%\n\n\n\n\n2 - Waterville Valley\n\n\n64%\n\n\n\n\n3 - Gunstock\n\n\n61%\n\n\n\n\n4 - Loon Mountain\n\n\n60%\n\n\n\n\n5 - Belleayre Mountain\n\n\n58%"
+  },
+  {
+    "objectID": "TopRankMT.html#best-mountains-for-the-expert-skier",
+    "href": "TopRankMT.html#best-mountains-for-the-expert-skier",
+    "title": "Top Ranked Mountains",
+    "section": "Best Mountains for the Expert Skier",
+    "text": "Best Mountains for the Expert Skier\nHighest percentage black diamond trails for mountains over 2,000 vertical elevation\n\n\n\n\nRank\n\n\nPercent Black Diamond Trails - Expert\n\n\n\n\n\n\n1 - Sugarbush\n\n\n43%\n\n\n\n\n2 - Jay Peak\n\n\n40%\n\n\n\n\n3 - Mad River Glen\n\n\n40%\n\n\n\n\n4 - Gore Mountain\n\n\n40%\n\n\n\n\n5 - Killington\n\n\n39%"
+  },
+  {
+    "objectID": "TopRankMT.html#fastest-lines",
+    "href": "TopRankMT.html#fastest-lines",
+    "title": "Top Ranked Mountains",
+    "section": "Fastest Lines",
+    "text": "Fastest Lines\n\n\n\n\nRank\n\n\nLift Capacity\n\n\n\n\n\n\n1 - Killington\n\n\n38,300 skiers/hour\n\n\n\n\n2 - Stratton Mountain\n\n\n33,400 skiers/hour\n\n\n\n\n3 - Mount Snow\n\n\n30,400 skiers/hour\n\n\n\n\n4 - Sugarbush Mountain\n\n\n25,500 skiers/hour\n\n\n\n\n5 - Holiday Valley\n\n\n23,900 skiers/hour"
+  },
+  {
+    "objectID": "TopRankMT.html#best-beginner-mountains-1",
+    "href": "TopRankMT.html#best-beginner-mountains-1",
+    "title": "Top Ranked Mountains",
+    "section": "Best Beginner Mountains",
+    "text": "Best Beginner Mountains"
+  },
+  {
+    "objectID": "TopRankMT.html#best-mountains-for-the-casual-weekend-skier-1",
+    "href": "TopRankMT.html#best-mountains-for-the-casual-weekend-skier-1",
+    "title": "Top Ranked Mountains",
+    "section": "Best Mountains for the Casual Weekend Skier",
+    "text": "Best Mountains for the Casual Weekend Skier"
+  },
+  {
+    "objectID": "TopRankMT.html#best-mountains-for-the-expert-skier-1",
+    "href": "TopRankMT.html#best-mountains-for-the-expert-skier-1",
+    "title": "Top Ranked Mountains",
+    "section": "Best Mountains for the Expert Skier",
+    "text": "Best Mountains for the Expert Skier"
+  },
+  {
+    "objectID": "TopRankMT.html#highest-variety-of-terrain",
+    "href": "TopRankMT.html#highest-variety-of-terrain",
+    "title": "Top Ranked Mountains",
+    "section": "Highest Variety of Terrain",
+    "text": "Highest Variety of Terrain\nHighest skiable acres with the highest number of trails taken in to account.\n\n\n\n\nRank\n\n\nSkiable Acres\n\n\nNumber of Trails\n\n\n\n\n\n\n1 - Killington\n\n\n1,509 acres\n\n\n155 trails\n\n\n\n\n2 - Smugglers Notch\n\n\n1,000 acres\n\n\n78 trails\n\n\n\n\n3 - Stratton Mountain\n\n\n670 acres\n\n\n97 trails\n\n\n\n\n4 - Okemo Mountain\n\n\n655 acres\n\n\n120 trails\n\n\n\n\n5 - Sugarbush Mountain\n\n\n578 acres\n\n\n111 trails"
+  },
+  {
+    "objectID": "about.html#my-name-is-caroline-maramara",
+    "href": "about.html#my-name-is-caroline-maramara",
+    "title": "About the Author",
+    "section": "My name is Caroline Maramara",
+    "text": "My name is Caroline Maramara\nI’m currently a graduate student in the Geoinformatics Master’s Program at Hunter College, where I’ve been building skills in GIS and coding. For this project, I wanted to combine those skills with something I’m genuinely passionate about: skiing. As an avid skier who loves exploring new mountains across the Northeast, I created Ski The NorthEast as a way to bring together geographic insight and useful planning tools for fellow skiers and snowboarders.\nOne question I often hear — and ask myself — is: Where should I go for my next weekend ski trip? Should I visit a new mountain? What’s the surrounding town like? To help answer those questions, this project merges information about medium to large ski mountains in New York, Vermont, and New Hampshire with demographic data from the U.S. Census. By integrating stats like population, age, and income for the counties near each resort, Ski The NorthEast offers a broader picture of not just where to ski, but what kind of experience to expect off the slopes."
+  },
+  {
+    "objectID": "about.html#caroline-maramara",
+    "href": "about.html#caroline-maramara",
+    "title": "About the Author",
+    "section": "Caroline Maramara",
+    "text": "Caroline Maramara\nI’m currently a graduate student in the Geoinformatics Master’s Program at Hunter College, where I’ve been building skills in GIS and coding. For this project, I wanted to combine those skills with something I’m genuinely passionate about: skiing. As an avid skier who loves exploring new mountains across the Northeast, I created Ski The NorthEast as a way to bring together geographic insight and useful planning tools for fellow skiers and snowboarders.\nOne question I often hear — and ask myself — is: Where should I go for my next weekend ski trip? Should I visit a new mountain? What’s the surrounding town like? To help answer those questions, this project merges information about medium to large ski mountains in New York, Vermont, and New Hampshire with demographic data from the U.S. Census. By integrating stats like population, age, and income for the counties near each resort, Ski The NorthEast offers a broader picture of not just where to ski, but what kind of experience to expect off the slopes."
+  }
+]
